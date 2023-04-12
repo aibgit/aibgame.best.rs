@@ -135,7 +135,7 @@ if(isset($_POST['email']) && isset($_POST['name'])){
                     <!-- <i>Zapamtite vase podatke :)</i> -->
                 </p>
                 <br>
-                <button type="submit" name="submit" value="login" class="btn btn-login">Prijavi se!!!</button>
+                <button type="submit" name="submit" value="login" class="btn btn-login">Prijavi se!</button>
             </div>
 
         </form>
