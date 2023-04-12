@@ -1,0 +1,49 @@
+[13-Nov-2022 14:10:42 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '$text' (T_VARIABLE) in /home/bestrs/aibgame.best.rs/nina-proba-nesto.php on line 5
+[13-Nov-2022 14:10:58 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '$text' (T_VARIABLE) in /home/bestrs/aibgame.best.rs/nina-proba-nesto.php on line 5
+[13-Nov-2022 14:11:41 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '$text' (T_VARIABLE) in /home/bestrs/aibgame.best.rs/nina-proba-nesto.php on line 5
+[14-Nov-2022 00:55:54 Europe/Belgrade] PHP Fatal error:  Cannot declare class User, because the name is already in use in /home/bestrs/aibgame.best.rs/model/user.php on line 3
+[14-Nov-2022 01:00:56 Europe/Belgrade] PHP Fatal error:  Cannot declare class User, because the name is already in use in /home/bestrs/aibgame.best.rs/model/user.php on line 3
+[14-Nov-2022 01:02:58 Europe/Belgrade] PHP Fatal error:  Cannot declare class User, because the name is already in use in /home/bestrs/aibgame.best.rs/model/user.php on line 3
+[14-Nov-2022 01:08:34 Europe/Belgrade] PHP Fatal error:  Cannot declare class User, because the name is already in use in /home/bestrs/aibgame.best.rs/model/user.php on line 3
+[14-Nov-2022 01:17:18 Europe/Belgrade] PHP Fatal error:  Cannot declare class User, because the name is already in use in /home/bestrs/aibgame.best.rs/model/user.php on line 3
+[14-Nov-2022 01:24:02 Europe/Belgrade] PHP Fatal error:  Cannot declare class User, because the name is already in use in /home/bestrs/aibgame.best.rs/model/user.php on line 3
+[21-Nov-2022 01:19:03 Europe/Belgrade] PHP Fatal error:  Uncaught Error: Call to undefined method User::getAll() in /home/bestrs/aibgame.best.rs/scoreboard.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bestrs/aibgame.best.rs/scoreboard.php on line 13
+[21-Nov-2022 01:19:05 Europe/Belgrade] PHP Fatal error:  Uncaught Error: Call to undefined method User::getAll() in /home/bestrs/aibgame.best.rs/scoreboard.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bestrs/aibgame.best.rs/scoreboard.php on line 13
+[21-Nov-2022 01:19:07 Europe/Belgrade] PHP Fatal error:  Uncaught Error: Call to undefined method User::getAll() in /home/bestrs/aibgame.best.rs/scoreboard.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bestrs/aibgame.best.rs/scoreboard.php on line 13
+[21-Nov-2022 01:19:15 Europe/Belgrade] PHP Fatal error:  Uncaught Error: Call to undefined method User::getAll() in /home/bestrs/aibgame.best.rs/scoreboard.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bestrs/aibgame.best.rs/scoreboard.php on line 13
+[21-Nov-2022 01:19:16 Europe/Belgrade] PHP Fatal error:  Uncaught Error: Call to undefined method User::getAll() in /home/bestrs/aibgame.best.rs/scoreboard.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bestrs/aibgame.best.rs/scoreboard.php on line 13
+[21-Nov-2022 01:19:17 Europe/Belgrade] PHP Fatal error:  Uncaught Error: Call to undefined method User::getAll() in /home/bestrs/aibgame.best.rs/scoreboard.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bestrs/aibgame.best.rs/scoreboard.php on line 13
+[21-Nov-2022 01:21:32 Europe/Belgrade] PHP Fatal error:  Uncaught Error: Call to undefined method User::getAll() in /home/bestrs/aibgame.best.rs/scoreboard.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bestrs/aibgame.best.rs/scoreboard.php on line 13
+[21-Nov-2022 01:21:34 Europe/Belgrade] PHP Fatal error:  Uncaught Error: Call to undefined method User::getAll() in /home/bestrs/aibgame.best.rs/scoreboard.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bestrs/aibgame.best.rs/scoreboard.php on line 13
+[21-Nov-2022 01:21:35 Europe/Belgrade] PHP Fatal error:  Uncaught Error: Call to undefined method User::getAll() in /home/bestrs/aibgame.best.rs/scoreboard.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bestrs/aibgame.best.rs/scoreboard.php on line 13
+[21-Nov-2022 01:21:45 Europe/Belgrade] PHP Fatal error:  Uncaught Error: Call to undefined method User::getAll() in /home/bestrs/aibgame.best.rs/scoreboard.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bestrs/aibgame.best.rs/scoreboard.php on line 13
